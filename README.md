@@ -6,5 +6,5 @@ Change ``FunctionPlotter.Function()`` to your desired function or pass it as a D
 
 
 # Example
-This is a plot of ``f(z)=sin(x^-1)`` on the unitm square I quickly generated.
+This is a plot of ``f(z)=sin(x^-1)`` on the unit square I quickly threw together.
 ![test](https://user-images.githubusercontent.com/35309553/132891127-46c003ad-2542-4b40-ae3d-db50b287f498.png)
