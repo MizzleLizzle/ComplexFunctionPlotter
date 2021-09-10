@@ -2,7 +2,7 @@
 Complex valued functions are plotted by representing the value of the function at a specific point as an RGB value. Hue corresponds to the angle of the result, Magnitude corresponds to the lightness.
 
 # Usage
-Change ``FunctionPlotter.Function()`` to your desired function or pass it as a Delegate to ``FunctionPlotter.Plot()``. Filepath,  codec, resolution and the Area that is to be plotted can be set in Program.cs. ``FunctionPlotter.MagnitudeLimit`` can be thought of as the aperture the image is taken with. Make sure that nuGet Packages ``System.Drawing`` and ``System.Numerics`` are installed.
+Change ``FunctionPlotter.Function()`` to your desired function or pass it as a Delegate to ``FunctionPlotter.Plot()``. Filepath,  codec, resolution and the Area that is to be plotted can be set in ``Program.cs``. ``FunctionPlotter.MagnitudeLimit`` can be thought of as the aperture the image is taken with. Make sure that nuGet Packages ``System.Drawing`` and ``System.Numerics`` are installed.
 
 
 # Example
